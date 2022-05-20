@@ -10,9 +10,6 @@ npm install
 npm run serve
 ```
 
-
-## <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉 </g-emoji> [Demo Link](https://jebasuthan.github.io/vue-pagination/)  <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>
-
 ## Features available in the applilcation:
 1. Individual components
 2. Loader added
@@ -25,5 +22,5 @@ npm run serve
 
 ## Screenshots
 ### List with multiple pagination options
-![Screenshot](https://user-images.githubusercontent.com/3702438/142559810-943ba84f-9f6f-4189-9f76-76540f3fbc1f.png)
+
 
